@@ -164,7 +164,7 @@ https://templatemo.com/tm-516-known
 
   #team,
   #testimonial {
-    background: #f9f9f9;
+    background: #444e33;
   }
 
   #team, 
@@ -258,7 +258,7 @@ https://templatemo.com/tm-516-known
 
   .custom-navbar {
     background: #ffffff;
-    border-top: 5px solid #7eb7ab;
+    border-top: 5px solid #3e4730;
     border-bottom: 0;
     -webkit-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
     -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
@@ -285,7 +285,7 @@ https://templatemo.com/tm-516-known
   }
 
   .custom-navbar .navbar-nav.navbar-right li a .fa {
-    background: #b8d9d2;
+    background: #3d4435;
     border-radius: 100%;
     color: #ffffff;
     width: 30px;
@@ -309,12 +309,12 @@ https://templatemo.com/tm-516-known
   }
 
   .custom-navbar .nav li a:hover {
-    background-color: #abddd3;
+    background-color: #444e33;
     color: #ffffff;
   }
 
   .custom-navbar .nav li.active > a {
-    background-color: #abddd3;
+    background-color: #444e33;
     color: #ffffff;
   }
 
@@ -406,7 +406,7 @@ https://templatemo.com/tm-516-known
   }
 
   .feature-thumb span {
-    background: #d5c9bf;
+    background: #444e33;
     border-radius: 50px;
     color: #ffffff;
     font-size: 25px;
@@ -683,7 +683,7 @@ https://templatemo.com/tm-516-known
   -----------------------------------------*/
 
   #contact {
-    background: #eee6e0;
+    background: #eed5d9;
   }
 
   #contact h2 {
@@ -739,7 +739,7 @@ https://templatemo.com/tm-516-known
   -----------------------------------------*/
 
   footer {
-    background: #d5c9bf;
+    background: #444e33;
     padding: 120px 0;
   }
 
